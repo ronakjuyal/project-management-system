@@ -189,7 +189,7 @@ spring.jpa.hibernate.ddl-auto=update
 This is a complete, production-ready secure project management system with comprehensive security features and role-based access control. All security best practices have been implemented including JWT authentication, password hashing, input validation, and secure file handling.
 
 # Author 
-## Robin Juyal | robinjuyal29@gmail.com | 9548933347
+## Ronak Juyal | ronakjuyal.mad@gmail.com | 6395261287
 
 
 
