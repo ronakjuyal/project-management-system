@@ -1,6 +1,6 @@
 # Description
 
-PixelForge Nexus is a comprehensive secure project management system. The system features role-based access control, secure authentication, project management, team assignments, and document management capabilities.
+This is a comprehensive secure project management system. The system features role-based access control, secure authentication, project management, team assignments, and document management capabilities.
 
 ## 🏗️ System Architecture
 
